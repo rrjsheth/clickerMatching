@@ -8,5 +8,5 @@ Using imageHashing techniques and OCR, potential matches are generated.
 
 
 How to use:
-  python driver.py -i path/to/folder/
-  python driver.py -i path/to/folder/ -t "n" -p thresh
+
+python driver.py -i path/to/folder/ -t "n" -p thresh
